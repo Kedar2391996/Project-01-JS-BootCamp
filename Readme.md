@@ -13,3 +13,6 @@
 ![badges](https://img.shields.io/badge/Ineuron-LCO-blue)
 
 ![badges](thumbnail.png)
+
+### Live Site Link
+[Home](https://trends2025.netlify.app/)
